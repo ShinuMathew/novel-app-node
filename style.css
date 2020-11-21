@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(235, 246, 246);
+}
+
+.header{
+    padding:20px;
+}
+
+.novelerr{
+    background-color: antiquewhite !important;
+    text-align: center;
+    padding-left: 50%;
+    padding-right: 50%;
+}

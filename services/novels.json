@@ -1,0 +1,94 @@
+{
+	"novels":[
+		{
+			"name":"The Don Quixote",
+            "author":"Miguel De Cervantes",
+            "authorid":"auth01"
+		},
+		{
+			"name":"Robinson Crusoe",
+			"author":"John Bunyan",
+            "authorid":"auth02"
+		},
+		{
+			"name":"Gulliver’s Travels",
+			"author":"Jonathan Swift",
+            "authorid":"auth03"
+		},
+		{
+			"name":"Robinson Crusoe",
+			"author":"John Bunyan",
+            "authorid":"auth04"
+		},
+		{
+			"name":"Clarissa",
+			"author":"Samuel Richardson",
+            "authorid":"auth05"
+		},
+		{
+			"name":"Tom Jones",
+			"author":"Henry Fielding",
+            "authorid":"auth06"
+		},
+		{
+			"name":"The Life and Opinions of Tristram Shandy, Gentleman ",
+			"author":"Laurence Sterne",
+            "authorid":"auth07"
+		},
+		{
+			"name":"Tom Jones",
+			"author":"Henry Fielding",
+            "authorid":"auth08"
+		},
+		{
+			"name":"Clarissa",
+			"author":"Samuel Richardson",
+            "authorid":"auth09"
+		},
+		{
+			"name":"Tristram Shandy",
+			"author":"Laurence Sterne",
+            "authorid":"auth10"
+		},
+		{
+			"name":"Dangerous Liaisons",
+			"author":"Pierre Choderlos De Laclos",
+            "authorid":"auth11"
+		},
+		{
+			"name":"Emma",
+			"author":"ane Austen",
+            "authorid":"auth12"
+		},
+		{
+			"name":"Frankenstein",
+			"author":"Mary Shelley",
+            "authorid":"auth13"
+		},
+		{
+			"name":"Nightmare Abbey",
+			"author":"Thomas Love Peacock",
+            "authorid":"auth14"
+		},
+		{
+			"name":"The Black Sheep",
+			"author":"Honoré De Balzac",
+            "authorid":"auth15"
+		},
+		{
+			"name":"The Charterhouse of Parma",
+			"author":"Stendhal",
+            "authorid":"auth16"
+		},
+		{
+			"name":"The Count of Monte Cristo",
+			"author":"Alexandre Dumas",
+            "authorid":"auth17"
+		},
+		{
+			"name":"Sybil",
+			"author":"Benjamin Disraeli",
+            "authorid":"auth18"
+		}
+	]
+}

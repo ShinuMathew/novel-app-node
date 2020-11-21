@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+    <title>Document</title>
+  </head>
+  <body onload="getnovels()">
+    <div class="container" id="novels">
+      <div class="page-header header">
+        <h1>Best Novels of the year!!!</h1>
+      </div>
+      <div class="row novelerr" id="novelerr"></div>
+      <div class="row novelsection" id="novelsection">
+        
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">AuthorID</th>
+              <th scope="col">AuthorImage</th>
+              <th scope="col">AuthorName</th>
+              <th scope="col">NovelName</th>
+              <th scope="col">AuthorAddress</th>
+            </tr>
+          </thead>
+          <tbody id="noveltable">
+            
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
