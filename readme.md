@@ -9,3 +9,4 @@
     2. cd to project location
     3. cd services/
     4. npm install
+    5. Launch index.htm using VSCode live server extension 
